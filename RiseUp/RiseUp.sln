@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiseUp.Plugins", "RiseUp.Plugins.csproj", "{6FD90704-681D-89F2-D249-D931F3F847F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiseUp", "RiseUp.csproj", "{4D9B98FD-616D-57D7-60AB-C13C10DDA293}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiseUp.Editor.Plugins", "RiseUp.Editor.Plugins.csproj", "{D844385A-16AB-04C3-3721-AA492F8BA8EE}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{6FD90704-681D-89F2-D249-D931F3F847F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FD90704-681D-89F2-D249-D931F3F847F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FD90704-681D-89F2-D249-D931F3F847F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D9B98FD-616D-57D7-60AB-C13C10DDA293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9B98FD-616D-57D7-60AB-C13C10DDA293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9B98FD-616D-57D7-60AB-C13C10DDA293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9B98FD-616D-57D7-60AB-C13C10DDA293}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D844385A-16AB-04C3-3721-AA492F8BA8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D844385A-16AB-04C3-3721-AA492F8BA8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D844385A-16AB-04C3-3721-AA492F8BA8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
